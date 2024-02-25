@@ -1,3 +1,5 @@
+**Integrating AI-driven Threat Intelligence and Forecasting in the Cyber Security Exercise Content Generation Lifecycle**
+
 **Abstract**
 
 The escalating complexity and impact of cy-
